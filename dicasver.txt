@@ -1,0 +1,9 @@
+http://www.luiztools.com.br/post/tutorial-crud-em-android-com-sqlite-e-recyclerview/
+http://www.luiztools.com.br/post/tutorial-crud-em-android-com-sqlite-e-recyclerview-2/
+
+
+
+
+https://www.devmedia.com.br/criando-um-crud-com-android-studio-e-sqlite/32815
+
+
